@@ -1,0 +1,25 @@
+/* static/styles.css */
+
+body {
+    background-color: #f4f7f6;
+    font-family: 'Arial', sans-serif;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+button {
+    margin-left: 10px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-group-item button {
+    margin-left: 10px;
+}
+
